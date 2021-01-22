@@ -11,10 +11,21 @@
     z-index: 10;
 }
 
+#arimaSello {
+    display: block;
+    
+}
+
 #arimaLogoImage {
     position: relative;
     margin: 0 auto;
     max-width: 150px;
+}
+
+#arimaSelloImage {
+    position: relative;
+    margin: 0 auto;
+    max-width: 250px;
 }
 
 #main_content_wrap {
