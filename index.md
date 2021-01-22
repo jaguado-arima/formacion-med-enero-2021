@@ -1,18 +1,18 @@
-Evento de Enpresa Digitala (Grupo SPRI) impartido en formato online el 21 y 22 de enero 2021 ([ver información de la ficha](/docs/fichaSpri.md))
+Evento de Enpresa Digitala (Grupo SPRI) impartido en formato online el 21 y 22 de enero 2021 ([ver información de la ficha](/docs/fichaSpri.md){:target="_blank"})
 
 A continuación dejamos disponibles todos los recursos utilizados durante ambas jornadas.
 
 ## Código fuente
 
-<i class="fab fa-github"></i> Acceso al repositorio del servicio de Farmacia ([aquí]()).
+<i class="fab fa-github"></i> Acceso al repositorio del servicio de Farmacia ([aquí](){:target="_blank"}).
 
-<i class="fab fa-github"></i> Acceso al respositorio del servicio de Almacen ([aquí]()).
+<i class="fab fa-github"></i> Acceso al respositorio del servicio de Almacen ([aquí](){:target="_blank"}).
 
 ## Acceso a las transparencias
 
-Transparencias del día 1 ([aquí]()).
+Transparencias del día 1 ([aquí](){:target="_blank"}).
 
-Transparencias del día 2 ([aquí]()).
+Transparencias del día 2 ([aquí](){:target="_blank"}).
 
 ## Enlaces de interés
 
@@ -34,11 +34,11 @@ Blog:
 ### Videos mencionados
 
 **Las tres frases que mataron la calidad de software**  
-[Ver en youtube](https://www.youtube.com/watch?v=yPPCn09ys9M&t=3h47m55s)  
+[Ver en youtube](https://www.youtube.com/watch?v=yPPCn09ys9M&t=3h47m55s){:target="_blank"}   
 Javier Martin de Agar. En QALovers Day 2020.
 
 **Agile Testing**  
-[Ver en youtube](https://www.youtube.com/watch?v=92fI3wlyriI)  
+[Ver en youtube](https://www.youtube.com/watch?v=92fI3wlyriI){:target="_blank"}  
 Carlos Blé. Entrevistado por Autentia.
 
 ### Relación de las ofertas relacionadas con QA
