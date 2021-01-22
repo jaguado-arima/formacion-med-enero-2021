@@ -10,7 +10,7 @@ Repositorio del servicio de **Farmacia** ([aquí](){:target="_blank"}).
 
 Repositorio del servicio de **Almacen** ([aquí](){:target="_blank"}).
 
-### <i class="fas fa-desktop"> Acceso a las transparencias en PDF
+### <i class="fas fa-desktop"></i> Acceso a las transparencias en PDF
 
 Transparencias del día 1 ([aquí](){:target="_blank"}).
 
@@ -21,16 +21,16 @@ Transparencias del día 2 ([aquí](){:target="_blank"}).
 ### Personas mencionadas
 Hemos nombrado a algunas personas que son de interés a nivel de la comunidad de QA. A continuación os dejamos información sobre ellos por si os interesan:
 
-<i class="fas fa-user-alt"></i> **Carlos Blé**  
-<i class="fab fa-twitter"></i> [@carlosble](https://twitter.com/carlosble){:target="_blank"}
+##### <i class="fas fa-user-alt"></i> Carlos Blé  
+<i class="fab fa-twitter"></i> [@carlosble](https://twitter.com/carlosble){:target="_blank"}   
 <i class="fas fa-blog"></i> [carlosble.com](http://www.carlosble.com/?lang=es){:target="_blank"}
 
-<i class="fas fa-user-alt"></i> **Francisco Moreno**  
-<i class="fab fa-twitter"></i> [@morvader](https://twitter.com/morvader){:target="_blank"}
+#### <i class="fas fa-user-alt"></i> Francisco Moreno*  
+<i class="fab fa-twitter"></i> [@morvader](https://twitter.com/morvader){:target="_blank"}   
 <i class="fab fa-twitter"></i> [@NorthemQuality](https://twitter.com/NorthemQuality){:target="_blank"}
 
 <i class="fas fa-user-alt"></i> **Javier Martín de Agar**  
-<i class="fab fa-twitter"></i> [@javimartinagar](https://twitter.com/javimartinagar){:target="_blank"}
+<i class="fab fa-twitter"></i> [@javimartinagar](https://twitter.com/javimartinagar){:target="_blank"}   
 <i class="fas fa-blog"></i> [Mamá... ¿Qué es Scrum?](https://mamaqueesscrum.com/){:target="_blank"}
 
 ### Videos
