@@ -22,7 +22,7 @@ Transparencias del día 2 ([aquí](){:target="_blank"}).
 Hemos nombrado a algunas personas que son de interés a nivel de la comunidad de QA. A continuación os dejamos información sobre ellos por si os interesan:
 
 <i class="fas fa-user-alt"></i> **Carlos Blé**  
-<i class="fab fa-twitter"></i> [@carlosble](https://twitter.com/carlosble){:target="_blank"}   
+> <i class="fab fa-twitter"></i> [@carlosble](https://twitter.com/carlosble){:target="_blank"}   
 <i class="fas fa-blog"></i> [carlosble.com](http://www.carlosble.com/?lang=es){:target="_blank"}
 
 
