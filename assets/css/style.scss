@@ -19,7 +19,7 @@
 #arimaLogoImage {
     position: relative;
     margin: 0 auto;
-    max-width: 150px;
+    max-width: 200px;
     border: none;
     box-shadow: none;
 }
@@ -31,6 +31,10 @@
     border: none;
     box-shadow: none;
     transform: translate(-50%,0%);
+}
+
+#project_title {
+    margin-top: 16px;
 }
 
 #main_content_wrap {

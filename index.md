@@ -21,19 +21,19 @@ Transparencias del día 2 ([aquí](){:target="_blank"}).
 ### Personas mencionadas
 Hemos nombrado a algunas personas que son de interés a nivel de la comunidad de QA. A continuación os dejamos información sobre ellos por si os interesan:
 
-#### <i class="fas fa-user-alt"></i> Carlos Blé  
+<i class="fas fa-user-alt"></i> **Carlos Blé**  
 <i class="fab fa-twitter"></i> [@carlosble](https://twitter.com/carlosble){:target="_blank"}   
 <i class="fas fa-blog"></i> [carlosble.com](http://www.carlosble.com/?lang=es){:target="_blank"}
 
 
 
-#### <i class="fas fa-user-alt"></i> Francisco Moreno*  
+<i class="fas fa-user-alt"></i> **Francisco Moreno**  
 <i class="fab fa-twitter"></i> [@morvader](https://twitter.com/morvader){:target="_blank"}   
 <i class="fab fa-twitter"></i> [@NorthemQuality](https://twitter.com/NorthemQuality){:target="_blank"}
 
 
 
-#### <i class="fas fa-user-alt"></i> Javier Martín de Agar  
+<i class="fas fa-user-alt"></i> **Javier Martín de Agar**  
 <i class="fab fa-twitter"></i> [@javimartinagar](https://twitter.com/javimartinagar){:target="_blank"}   
 <i class="fas fa-blog"></i> [Mamá... ¿Qué es Scrum?](https://mamaqueesscrum.com/){:target="_blank"}
 
@@ -43,7 +43,7 @@ Hemos nombrado a algunas personas que son de interés a nivel de la comunidad de
 <i class="fab fa-youtube"></i> [Ver en youtube](https://www.youtube.com/watch?v=yPPCn09ys9M&t=3h47m55s){:target="_blank"}   
 Javier Martin de Agar. En QALovers Day 2020.
 
-#### Agile Testing
+**Agile Testing**
 <i class="fab fa-youtube"></i> [Ver en youtube](https://www.youtube.com/watch?v=92fI3wlyriI){:target="_blank"}  
 Carlos Blé. Entrevistado por Autentia.
 
@@ -56,11 +56,11 @@ Carlos Blé. Entrevistado por Autentia.
 
 A continuación os dejo el enlace de las herramientas con las que hemos ido trabajando a lo largo de las dos jornadas así como algunas de las que sin haber profundizado hemos nombrado.
 
-- [JUnit 5](){:target="_blank"}
-- [Testcontainers](){:target="_blank"}
-- [Mockito](){:target="_blank"}
-- [Powermockito](){:target="_blank"}
-- [JaCoCo](){:target="_blank"}
-- [Pitest](){:target="_blank"}
-- [Spring Cloud Contract](){:target="_blank"}
-- [Pact](){:target="_blank"}
+- [JUnit 5](https://junit.org/junit5/docs/current/user-guide/){:target="_blank"}
+- [Testcontainers](https://www.testcontainers.org/){:target="_blank"}
+- [Mockito](https://site.mockito.org/){:target="_blank"}
+- [Powermockito](https://github.com/powermock/powermock/wiki/Mockito#using-powermock-with-mockito){:target="_blank"}
+- [JaCoCo](https://www.jacoco.org/jacoco/index.html){:target="_blank"}
+- [Pitest](https://pitest.org/){:target="_blank"}
+- [Spring Cloud Contract](https://spring.io/projects/spring-cloud-contract){:target="_blank"}
+- [Pact](https://docs.pact.io/){:target="_blank"}
