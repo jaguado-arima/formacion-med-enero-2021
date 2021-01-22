@@ -25,11 +25,12 @@
 }
 
 #arimaSelloImage {
-    position: relative;
-    margin: 0 auto;
-    max-width: 250px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
     border: none;
     box-shadow: none;
+    transform: translate(-50%,0%);
 }
 
 #main_content_wrap {
