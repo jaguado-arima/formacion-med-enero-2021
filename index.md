@@ -28,24 +28,24 @@ Hemos nombrado a algunas personas que son de interés a nivel de la comunidad de
 
 
 <i class="fas fa-user-alt"></i> **Francisco Moreno**  
-<i class="fab fa-twitter"></i> [@morvader](https://twitter.com/morvader){:target="_blank"}   
+><i class="fab fa-twitter"></i> [@morvader](https://twitter.com/morvader){:target="_blank"}   
 <i class="fab fa-twitter"></i> [@NorthemQuality](https://twitter.com/NorthemQuality){:target="_blank"}
 
 
 
 <i class="fas fa-user-alt"></i> **Javier Martín de Agar**  
-<i class="fab fa-twitter"></i> [@javimartinagar](https://twitter.com/javimartinagar){:target="_blank"}   
+><i class="fab fa-twitter"></i> [@javimartinagar](https://twitter.com/javimartinagar){:target="_blank"}   
 <i class="fas fa-blog"></i> [Mamá... ¿Qué es Scrum?](https://mamaqueesscrum.com/){:target="_blank"}
 
 ### Videos
 
 **Las tres frases que mataron la calidad de software**  
-<i class="fab fa-youtube"></i> [Ver en youtube](https://www.youtube.com/watch?v=yPPCn09ys9M&t=3h47m55s){:target="_blank"}   
-Javier Martin de Agar. En QALovers Day 2020.
+><i class="fab fa-youtube"></i> [Ver en youtube](https://www.youtube.com/watch?v=yPPCn09ys9M&t=3h47m55s){:target="_blank"}   
+_Javier Martin de Agar_. En QALovers Day 2020.
 
 **Agile Testing**
-<i class="fab fa-youtube"></i> [Ver en youtube](https://www.youtube.com/watch?v=92fI3wlyriI){:target="_blank"}  
-Carlos Blé. Entrevistado por Autentia.
+><i class="fab fa-youtube"></i> [Ver en youtube](https://www.youtube.com/watch?v=92fI3wlyriI){:target="_blank"}  
+_Carlos Blé_. Entrevistado por Autentia.
 
 ### Relación de las ofertas relacionadas con QA
 
