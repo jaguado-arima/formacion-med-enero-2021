@@ -10,6 +10,16 @@ Acceso al repositorio del servicio de Farmacia.
 
 Acceso al respositorio del servicio de Almacen.
 
+### Acceso a las transparencias
+
+Transparencias del día 1
+
+Transparencias del día 2
+
+### Enlaces de interés
+
+
+
 ```markdown
 Syntax highlighted code block
 
