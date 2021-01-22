@@ -2,36 +2,38 @@ Evento de Enpresa Digitala (Grupo SPRI) impartido en formato online el 21 y 22 d
 
 A continuación dejamos disponibles todos los recursos utilizados durante ambas jornadas.
 
-## <i class="fab fa-github"></i> Código fuente
+## Código fuente y transparencias
 
-Acceso al repositorio del servicio de **Farmacia** ([aquí](){:target="_blank"}).
+### Acceso a los repositorios de Github
 
-Acceso al respositorio del servicio de **Almacen** ([aquí](){:target="_blank"}).
+<i class="fab fa-github"></i> Repositorio del servicio de **Farmacia** ([aquí](){:target="_blank"}).
 
-## <i class="fas fa-desktop"></i> Acceso a las transparencias
+<i class="fab fa-github"></i> Respositorio del servicio de **Almacen** ([aquí](){:target="_blank"}).
 
-Transparencias del día 1 ([aquí](){:target="_blank"}).
+### Acceso a las transparencias en PDF
 
-Transparencias del día 2 ([aquí](){:target="_blank"}).
+<i class="fas fa-desktop"> Transparencias del día 1 ([aquí](){:target="_blank"}).
 
-## <i class="fas fa-link"></i> Enlaces de interés
+<i class="fas fa-desktop">Transparencias del día 2 ([aquí](){:target="_blank"}).
 
-### <i class="fas fa-users"></i> Personas mencionadas
+## Enlaces de interés
+
+### Personas mencionadas
 Hemos nombrado a algunas personas que son de interés a nivel de la comunidad de QA. A continuación os dejamos información sobre ellos por si os interesan:
 
-**Carlos Blé**  
+<i class="fas fa-user-alt"></i>**Carlos Blé**  
 <i class="fab fa-twitter"></i>Twitter: 
 <i class="fas fa-blog"></i>Web:
 
-**Francisco Moreno**  
+<i class="fas fa-user-alt"></i>**Francisco Moreno**  
 <i class="fab fa-twitter"></i>Twitter:
 <i class="fab fa-twitter"></i>Twitter de NothermQuality:
 
-**Javier Martín de Agar**  
+<i class="fas fa-user-alt"></i>**Javier Martín de Agar**  
 <i class="fab fa-twitter"></i>Twitter:
 <i class="fas fa-blog"></i>Blog:
 
-### <i class="fab fa-youtube"></i> Videos mencionados
+### Videos
 
 **Las tres frases que mataron la calidad de software**  
 <i class="fab fa-youtube"></i> [Ver en youtube](https://www.youtube.com/watch?v=yPPCn09ys9M&t=3h47m55s){:target="_blank"}   
@@ -50,11 +52,11 @@ Os dejo un documento con las ofertas que vimos el primer día sobre qué es lo q
 
 A continuación os dejo el enlace de las herramientas con las que hemos ido trabajando a lo largo de las dos jornadas así como algunas de las que sin haber profundizado hemos nombrado.
 
-- JUnit 5
-- Testcontainers
-- Mockito
-- Powermockito
-- JaCoCo
-- Pitest
-- Spring Cloud Contract
-- Pact
+- [JUnit 5](){:target="_blank"}
+- [Testcontainers](){:target="_blank"}
+- [Mockito](){:target="_blank"}
+- [Powermockito](){:target="_blank"}
+- [JaCoCo](){:target="_blank"}
+- [Pitest](){:target="_blank"}
+- [Spring Cloud Contract](){:target="_blank"}
+- [Pact](){:target="_blank"}
