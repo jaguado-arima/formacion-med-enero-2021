@@ -4,9 +4,9 @@ A continuación dejamos disponibles todos los recursos utilizados durante ambas 
 
 ## Código fuente
 
-Acceso al repositorio del servicio de Farmacia ([aquí]()).
+<i class="fab fa-github"></i> Acceso al repositorio del servicio de Farmacia ([aquí]()).
 
-Acceso al respositorio del servicio de Almacen ([aquí]()).
+<i class="fab fa-github"></i> Acceso al respositorio del servicio de Almacen ([aquí]()).
 
 ## Acceso a las transparencias
 
@@ -33,7 +33,7 @@ Blog:
 
 ### Videos mencionados
 
-#### Las tres frases que mataron la calidad de software  
+**Las tres frases que mataron la calidad de software**  
 [Ver en youtube](https://www.youtube.com/watch?v=yPPCn09ys9M&t=3h47m55s)  
 Javier Martin de Agar. En QALovers Day 2020.
 
