@@ -84,10 +84,8 @@ Tradicionalmente se ha medido la calidad, teniendo en cuenta los informes de cob
 
 |:-------------|:------------------|
 | Cobertura | Mutation Testing Systems |
-| <img src="assets/img/logoJacoco.jpg" width="150px" alt="Logo de Jacoco">|
-<img src="assets/img/logoPitest.png" width="150px" alt="Logo de Pitest">| 
-|[JaCoCo](https://www.jacoco.org/jacoco/index.html){:target="_blank"}|
-[Pitest](https://pitest.org/){:target="_blank"}|
+| <img src="assets/img/logoJacoco.jpg" width="150px" alt="Logo de Jacoco">|<img src="assets/img/logoPitest.png" width="150px" alt="Logo de Pitest">| 
+|[JaCoCo](https://www.jacoco.org/jacoco/index.html){:target="_blank"}|[Pitest](https://pitest.org/){:target="_blank"}|
 
 ### Contract testing
 Hemos visto la importancia de tener testeados cada uno de nuestros servicios, pero no debemos olvidarnos de que la comunicación entre ambos también debe ser testeada de alguna forma.
