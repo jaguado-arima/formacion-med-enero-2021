@@ -1,15 +1,12 @@
 ---
 ---
 @import "fonts/gotham";
-
-$base-font-family: gotham_light, Arial, Helvetica, sans-serif !default;
-
 @import "{{ site.theme }}";
 
 
-//body {
-//    font-family: gotham_light, Arial, Helvetica, sans-serif;
-//}
+body, h1, h2, h3, h4, h5, h6, th {
+    font-family: gotham_light, Arial, Helvetica, sans-serif;
+}
 
 #arimaLogo {
     display: block;
