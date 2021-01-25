@@ -61,28 +61,28 @@ A continuación os dejo el enlace de las herramientas con las que hemos ido trab
 ### Base
 Librerías base en las que hemos basado todo el desarrollo de los tests.
 
-|:-------------|:------------------|
+|:-:|:-:|
 | <img src="assets/img/logoJunit5.png" width="150px" alt="Logo de JUnit 5">           | <img src="assets/img/logoMockito.png" width="150px" alt="Logo de Mockito">   |
 | [JUnit 5](https://junit.org/junit5/docs/current/user-guide/){:target="_blank"} | [Mockito](https://site.mockito.org/){:target="_blank"}   |
 
 ### Mockeo de estáticos/constructores
 Desde la versión 3.4.0 Mockito ofrece esta posibilidad. Hay otra librería que nos ofrece también estas opciones (entre otras). Requiere tests de JUnit 4 y Mockito 2.
 
-|:-------------|
+|:-:|
 |<img src="assets/img/logoPowermock.png" width="150px" alt="Logo de Powermock">|
 |[Powermockito](https://github.com/powermock/powermock/wiki/Mockito#using-powermock-with-mockito){:target="_blank"}|
 
 ### Testcontainers
 ¿Testear sin tener que levantar nuestra bd?¿Hacer peticiones a otro servicio sin necesidad de tenerlo accesible?
 
-|:-------------|
+|:-:|
 |<img src="assets/img/logoTestContainers.png" width="150px" alt="Logo de Testcontainers">|
 |[Testcontainers](https://www.testcontainers.org/){:target="_blank"}|
   
 ### Calidad
 Tradicionalmente se ha medido la calidad, teniendo en cuenta los informes de cobertura de código. Tras ver la fragilidad de estas métricas descubrimos el concepto de Mutation Testing Systems.
 
-|:-------------|:------------------|
+|:-:|:-:|
 | Cobertura | Mutation Testing Systems |
 | <img src="assets/img/logoJacoco.jpg" width="150px" alt="Logo de Jacoco">|<img src="assets/img/logoPitest.png" width="150px" alt="Logo de Pitest">| 
 |[JaCoCo](https://www.jacoco.org/jacoco/index.html){:target="_blank"}|[Pitest](https://pitest.org/){:target="_blank"}|
@@ -90,7 +90,7 @@ Tradicionalmente se ha medido la calidad, teniendo en cuenta los informes de cob
 ### Contract testing
 Hemos visto la importancia de tener testeados cada uno de nuestros servicios, pero no debemos olvidarnos de que la comunicación entre ambos también debe ser testeada de alguna forma.
 
-|:-------------|:------------------|
+|:-:|:-:|
 | <img src="assets/img/logoSpringCloud.jpg" width="150px" alt="Logo de Spring Cloud">           | <img src="assets/img/logoPact.png" width="150px" alt="Logo de Pact">   |
 | [Spring Cloud Contract](https://spring.io/projects/spring-cloud-contract){:target="_blank"} | [Pact](https://docs.pact.io/){:target="_blank"}  |
 
