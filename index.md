@@ -61,10 +61,8 @@ A continuación os dejo el enlace de las herramientas con las que hemos ido trab
 
 | Base    |
 |:-------------|:------------------|
-| ok           | good swedish fish |
+| ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)           | ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) |
 | [JUnit 5](https://junit.org/junit5/docs/current/user-guide/){:target="_blank"} | [Mockito](https://site.mockito.org/){:target="_blank"}   |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
 
 
 Base:
