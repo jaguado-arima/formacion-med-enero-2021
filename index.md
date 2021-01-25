@@ -47,6 +47,10 @@ _Javier Martin de Agar_. En QALovers Day 2020.
 ><i class="fab fa-youtube"></i> [Ver en youtube](https://www.youtube.com/watch?v=92fI3wlyriI){:target="_blank"}  
 _Carlos Blé_. Entrevistado por Autentia.
 
+### Bugs de software sonados
+
+[Aquí](/docs/bugsHistoria.md){:target="_blank"} os deja un documento con las consecuencias provocadas por algunos errorss en el software que vimos el primer día.
+
 ### Relación de las ofertas relacionadas con QA
 
 [Aquí](/docs/ofertas.md){:target="_blank"} os deja un documento con las ofertas que vimos el primer día sobre qué es lo que se pide actualmente relacionado con QA.

@@ -19,7 +19,9 @@
           <a id="arimaLogo" href="https://www.arima.eu/es/">
             <img id="arimaLogoImage" border="0" alt="Arima Logo" src="/assets/img/logoWhite.png">
          </a>
-
+         {{ site.url }}
+         {{ page.url }}
+         {{ site.base-url }}
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
 
