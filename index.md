@@ -47,7 +47,7 @@ _Carlos Blé_. Entrevistado por Autentia.
 
 ### Bugs de software sonados
 
-[Aquí](/docs/bugsHistoria.md){:target="_blank"} os deja un documento con las consecuencias provocadas por algunos errorss en el software que vimos el primer día.
+[Aquí](/docs/bugsHistoria.md){:target="_blank"} os deja un documento con las consecuencias provocadas por algunos errores en el software que vimos el primer día.
 
 ### Relación de las ofertas relacionadas con QA
 
