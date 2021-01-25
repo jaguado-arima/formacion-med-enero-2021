@@ -58,6 +58,15 @@ _Carlos Blé_. Entrevistado por Autentia.
 
 A continuación os dejo el enlace de las herramientas con las que hemos ido trabajando a lo largo de las dos jornadas así como algunas de las que sin haber profundizado hemos nombrado.
 
+
+| Base    |
+|:-------------|:------------------|
+| ok           | good swedish fish |
+| [JUnit 5](https://junit.org/junit5/docs/current/user-guide/){:target="_blank"} | [Mockito](https://site.mockito.org/){:target="_blank"}   |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
+
 Base:
 - [JUnit 5](https://junit.org/junit5/docs/current/user-guide/){:target="_blank"}
 - [Mockito](https://site.mockito.org/){:target="_blank"}
