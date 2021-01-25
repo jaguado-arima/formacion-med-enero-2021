@@ -17,11 +17,8 @@
     <div id="header_wrap" class="outer">
         <header class="inner">
           <a id="arimaLogo" href="https://www.arima.eu/es/">
-            <img id="arimaLogoImage" border="0" alt="Arima Logo" src="/assets/img/logoWhite.png">
+            <img id="arimaLogoImage" border="0" alt="Arima Logo" src='{{ "/assets/img/logoWhite.png" | prepend: site.github.url }}'>
          </a>
-         a{{ site.url }} -- 
-         <img id="arimaLogoImage" border="0" alt="Arima Logo" src='{{ "/assets/img/logoWhite.png" | prepend: site.url }}'>
-         b{{ page.url }}   <img id="arimaLogoImage" border="0" alt="Arima Logo" src='{{ "/assets/img/logoWhite.png" | prepend: site.github.url }}'>
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
 
