@@ -81,12 +81,17 @@ Desde la versión 3.4.0 Mockito ofrece esta posibilidad. Hay otra librería que 
   
 ### Calidad
 Tradicionalmente se ha medido la calidad, teniendo en cuenta los informes de cobertura de código. Tras ver la fragilidad de estas métricas descubrimos el concepto de Mutation Testing Systems.
-- [JaCoCo](https://www.jacoco.org/jacoco/index.html){:target="_blank"}
-- [Pitest](https://pitest.org/){:target="_blank"}
+|:-------------|:------------------|
+| Cobertura | Mutation Testing System |
+| <img src="assets/img/logoJacoco.jpg" width="150px" alt="Logo de Jacoco">|
+<img src="assets/img/logoPitest.png" width="150px" alt="Logo de Pitest">| 
+|[JaCoCo](https://www.jacoco.org/jacoco/index.html){:target="_blank"}|
+[Pitest](https://pitest.org/){:target="_blank"}|
 
 ### Contract testing
 Hemos visto la importancia de tener testeados cada uno de nuestros servicios, pero no debemos olvidarnos de que la comunicación entre ambos también debe ser testeada de alguna forma.
+
 |:-------------|:------------------|
-| <img src="assets/img/logoJunit5.png" width="150px" alt="Logo de JUnit 5">           | <img src="assets/img/logoMockito.png" width="150px" alt="Logo de Mockito">   |
+| <img src="assets/img/logoSpringCloud.jpg" width="150px" alt="Logo de Spring Cloud">           | <img src="assets/img/logoPact.png" width="150px" alt="Logo de Pact">   |
 | [Spring Cloud Contract](https://spring.io/projects/spring-cloud-contract){:target="_blank"} | [Pact](https://docs.pact.io/){:target="_blank"}  |
 
