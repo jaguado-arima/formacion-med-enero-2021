@@ -65,14 +65,11 @@ Librerías base en las que hemos basado todo el desarrollo de los tests.
 | <img src="assets/img/logoJunit5.png" width="150px" alt="Logo de JUnit 5">           | <img src="assets/img/logoMockito.png" width="150px" alt="Logo de Mockito">   |
 | [JUnit 5](https://junit.org/junit5/docs/current/user-guide/){:target="_blank"} | [Mockito](https://site.mockito.org/){:target="_blank"}   |
 
-
-Base:
-- [JUnit 5](https://junit.org/junit5/docs/current/user-guide/){:target="_blank"}
-- [Mockito](https://site.mockito.org/){:target="_blank"}
-
-Mockeo de estáticos/constructores
-- [Mockito](https://site.mockito.org/){:target="_blank"}
-- [Powermockito](https://github.com/powermock/powermock/wiki/Mockito#using-powermock-with-mockito){:target="_blank"}
+### Mockeo de estáticos/constructores
+Desde la versión 3.4.0 Mockito ofrece esta posibilidad. Hay otra librería que nos ofrece también estas opciones (entre otras). Requiere tests de JUnit 4 y Mockito 2.
+|:-------------
+|<img src="assets/img/logoPowermock.png" width="150px" alt="Logo de Powermock">|
+|[Powermockito](https://github.com/powermock/powermock/wiki/Mockito#using-powermock-with-mockito){:target="_blank"}|
 
 Test contra servicios "sin servicios":
 - [Testcontainers](https://www.testcontainers.org/){:target="_blank"}
