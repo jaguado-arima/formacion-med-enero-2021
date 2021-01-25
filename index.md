@@ -61,7 +61,8 @@ A continuación os dejo el enlace de las herramientas con las que hemos ido trab
 
 | Base    |
 |:-------------|:------------------|
-| ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)           | ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) |
+| Librerías base en las que hemos basado el desarrollo de los tests|
+| ![Junit5](/assets/img/logoJunit5.png)           | ![Mockito](/assets/img/logoMockito.png) |
 | [JUnit 5](https://junit.org/junit5/docs/current/user-guide/){:target="_blank"} | [Mockito](https://site.mockito.org/){:target="_blank"}   |
 
 
