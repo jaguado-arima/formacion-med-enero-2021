@@ -54,15 +54,25 @@ _Carlos Blé_. Entrevistado por Autentia.
 [Aquí](/docs/ofertas.md){:target="_blank"} os deja un documento con las ofertas que vimos el primer día sobre qué es lo que se pide actualmente relacionado con QA.
 
 
-## <i class="fas fa-tools"></i> Herramientas que hemos visto
+## Herramientas que hemos visto
 
 A continuación os dejo el enlace de las herramientas con las que hemos ido trabajando a lo largo de las dos jornadas así como algunas de las que sin haber profundizado hemos nombrado.
 
+Base:
 - [JUnit 5](https://junit.org/junit5/docs/current/user-guide/){:target="_blank"}
-- [Testcontainers](https://www.testcontainers.org/){:target="_blank"}
+- [Mockito](https://site.mockito.org/){:target="_blank"}
+
+Mockeo de estáticos/constructores
 - [Mockito](https://site.mockito.org/){:target="_blank"}
 - [Powermockito](https://github.com/powermock/powermock/wiki/Mockito#using-powermock-with-mockito){:target="_blank"}
+
+Test contra servicios "sin servicios":
+- [Testcontainers](https://www.testcontainers.org/){:target="_blank"}
+  
+Calidad:
 - [JaCoCo](https://www.jacoco.org/jacoco/index.html){:target="_blank"}
 - [Pitest](https://pitest.org/){:target="_blank"}
+
+Contract testing:
 - [Spring Cloud Contract](https://spring.io/projects/spring-cloud-contract){:target="_blank"}
 - [Pact](https://docs.pact.io/){:target="_blank"}
