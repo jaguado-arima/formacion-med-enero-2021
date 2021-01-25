@@ -1,5 +1,7 @@
 ---
 ---
+$max-width: 800px;
+
 @import "fonts/gotham";
 @import "{{ site.theme }}";
 
@@ -74,6 +76,12 @@ h1 {
 #header_wrap .inner {
     padding-bottom: 10px;
 }
+
+.inner {
+  max-width: $max-width;
+}
+
+
 
 #main_content_wrap {
     background: #ffffff;
