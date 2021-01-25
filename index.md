@@ -81,8 +81,9 @@ Desde la versión 3.4.0 Mockito ofrece esta posibilidad. Hay otra librería que 
   
 ### Calidad
 Tradicionalmente se ha medido la calidad, teniendo en cuenta los informes de cobertura de código. Tras ver la fragilidad de estas métricas descubrimos el concepto de Mutation Testing Systems.
+
 |:-------------|:------------------|
-| Cobertura | Mutation Testing System |
+| Cobertura | Mutation Testing Systems |
 | <img src="assets/img/logoJacoco.jpg" width="150px" alt="Logo de Jacoco">|
 <img src="assets/img/logoPitest.png" width="150px" alt="Logo de Pitest">| 
 |[JaCoCo](https://www.jacoco.org/jacoco/index.html){:target="_blank"}|
