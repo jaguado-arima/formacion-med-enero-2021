@@ -71,16 +71,20 @@ Desde la versión 3.4.0 Mockito ofrece esta posibilidad. Hay otra librería que 
 |<img src="assets/img/logoPowermock.png" width="150px" alt="Logo de Powermock">|
 |[Powermockito](https://github.com/powermock/powermock/wiki/Mockito#using-powermock-with-mockito){:target="_blank"}|
 
-### Test contra servicios "sin servicios":
+### Testcontainers
 ¿Testear sin tener que levantar nuestra bd?¿Hacer peticiones a otro servicio sin necesidad de tenerlo accesible?
 |:-------------|
 |<img src="assets/img/logoTestContainers.png" width="150px" alt="Logo de Testcontainers">|
 |[Testcontainers](https://www.testcontainers.org/){:target="_blank"}|
   
-Calidad:
+### Calidad
+Tradicionalmente se ha medido la calidad, teniendo en cuenta los informes de cobertura de código. Tras ver la fragilidad de estas métricas descubrimos el concepto de Mutation Testing Systems.
 - [JaCoCo](https://www.jacoco.org/jacoco/index.html){:target="_blank"}
 - [Pitest](https://pitest.org/){:target="_blank"}
 
-Contract testing:
-- [Spring Cloud Contract](https://spring.io/projects/spring-cloud-contract){:target="_blank"}
-- [Pact](https://docs.pact.io/){:target="_blank"}
+### Contract testing
+Hemos visto la importancia de tener testeados cada uno de nuestros servicios, pero no debemos olvidarnos de que la comunicación entre ambos también debe ser testeada de alguna forma.
+|:-------------|:------------------|
+| <img src="assets/img/logoJunit5.png" width="150px" alt="Logo de JUnit 5">           | <img src="assets/img/logoMockito.png" width="150px" alt="Logo de Mockito">   |
+| [Spring Cloud Contract](https://spring.io/projects/spring-cloud-contract){:target="_blank"} | [Pact](https://docs.pact.io/){:target="_blank"}  |
+
