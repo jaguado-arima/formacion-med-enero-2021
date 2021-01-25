@@ -4,13 +4,13 @@ A continuación dejamos disponibles todos los recursos utilizados durante ambas 
 
 ## Código fuente y transparencias
 
-### <i class="fab fa-github"></i>  Acceso a los repositorios de Github
+<i class="fab fa-github"></i>  **Acceso a los repositorios de Github**
 
 Repositorio del servicio de **Farmacia** ([aquí](){:target="_blank"}).
 
 Repositorio del servicio de **Almacen** ([aquí](){:target="_blank"}).
 
-### <i class="fas fa-desktop"></i> Acceso a las transparencias en PDF
+<i class="fas fa-desktop"></i> **Acceso a las transparencias en PDF**
 
 Transparencias del día 1 ([aquí](){:target="_blank"}).
 
