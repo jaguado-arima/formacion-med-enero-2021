@@ -62,7 +62,7 @@ A continuación os dejo el enlace de las herramientas con las que hemos ido trab
 | Base    ||
 |:-------------|:------------------|
 | Librerías base en las que hemos basado el desarrollo de los tests    ||
-| ![Junit5](/assets/img/logoJunit5.png | width=100)           | ![Mockito](/assets/img/logoMockito.png) |
+| ![Junit5]<img src="/assets/img/logoJunit5.png" height="100px">           | ![Mockito](/assets/img/logoMockito.png) |
 | [JUnit 5](https://junit.org/junit5/docs/current/user-guide/){:target="_blank"} | [Mockito](https://site.mockito.org/){:target="_blank"}   |
 
 
