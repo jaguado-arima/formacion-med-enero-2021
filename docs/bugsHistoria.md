@@ -1,4 +1,5 @@
-## Consecuencias de errores de software
+## Consecuencias de errores de software a lo largo de la historia
+
 Para ver la importancia de tener software sin errores hemos visto algunas de las consecuencias más sonadas producidas por un error en el software. Hay más, pero a continuación dejamos 4 de ellas como curiosidad con enlaces para leer más información al respecto.
 
 ### Satélite Ariane
