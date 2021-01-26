@@ -19,7 +19,7 @@ Para ver la importancia de tener software sin errores hemos visto algunas de las
 
 | <!-- -->    | <!-- -->    |
 |:------------:|:-------------|
-|<img src="../assets/img/noticiaMichigan.jpeg" width="150px" alt="Imagen de una noticia sobre la liberación de presos en Michigan"> |Al realizar algunos cálculos sobre las fechas en las que algunos presos deberían salir libres, había un error lo que provocó que algunos saliesen libres hasta 100 días antes de lo que deberían.<br />[Un fallo de software libera a más de 3000 reclusos](https://computerhoy.com/noticias/software/fallo-software-libera-mas-3000-reclusos-38563){:target="_blank"}<br />[US prisoners released early by software bug](https://www.bbc.com/news/technology-35167191){:target="_blank"}|
+|<img src="../assets/img/noticiaPresos.jpeg" width="150px" alt="Imagen de una noticia sobre la liberación de presos en Michigan"> |Al realizar algunos cálculos sobre las fechas en las que algunos presos deberían salir libres, había un error lo que provocó que algunos saliesen libres hasta 100 días antes de lo que deberían.<br />[Un fallo de software libera a más de 3000 reclusos](https://computerhoy.com/noticias/software/fallo-software-libera-mas-3000-reclusos-38563){:target="_blank"}<br />[US prisoners released early by software bug](https://www.bbc.com/news/technology-35167191){:target="_blank"}|
 
 
 ### Misil Patriot - Guerra del Golfo
