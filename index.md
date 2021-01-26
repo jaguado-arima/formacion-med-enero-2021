@@ -1,4 +1,4 @@
-Evento de Enpresa Digitala (Grupo SPRI) impartido en formato online el 21 y 22 de enero 2021 ([ver información de la ficha](/docs/fichaSpri.md){:target="_blank"})
+Evento de Enpresa Digitala (Grupo SPRI) impartido en formato online el 21 y 22 de enero 2021 ([ver información de la ficha](/docs/fichaSpri.md))
 
 A continuación dejamos disponibles todos los recursos utilizados durante ambas jornadas.
 
@@ -47,11 +47,11 @@ _Carlos Blé_. Entrevistado por Autentia.
 
 ### Bugs de software sonados
 
-[Aquí](/docs/bugsHistoria.md){:target="_blank"} os deja un documento con las consecuencias provocadas por algunos errores en el software que vimos el primer día.
+[Aquí](/docs/bugsHistoria.md) os deja un documento con las consecuencias provocadas por algunos errores en el software que vimos el primer día.
 
 ### Relación de las ofertas relacionadas con QA
 
-[Aquí](/docs/ofertas.md){:target="_blank"} os deja un documento con las ofertas que vimos el primer día sobre qué es lo que se pide actualmente relacionado con QA.
+[Aquí](/docs/ofertas.md) os deja un documento con las ofertas que vimos el primer día sobre qué es lo que se pide actualmente relacionado con QA.
 
 
 ## Herramientas que hemos visto
