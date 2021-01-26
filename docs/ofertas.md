@@ -1,4 +1,4 @@
-## Recopilación de algunar ofertas sobre QA
+## Recopilación de algunas ofertas sobre QA
 
 Estas son las ofertas que vimos durante la primera jornada en nuestra búsqueda de entender qué es lo que se entiende hoy por hoy en el mercado cuando se habla del rol de QA.
 
