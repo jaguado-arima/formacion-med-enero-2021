@@ -70,7 +70,7 @@ Desde la versión 3.4.0 Mockito ofrece esta posibilidad. Hay otra librería que 
 
 |:----:|
 |<img src="assets/img/logoPowermock.png" width="150px" alt="Logo de Powermock">|
-|[Powermockito](https://github.com/powermock/powermock/wiki/Mockito#using-powermock-with-mockito){:target="_blank"}|
+|[Powermock](https://github.com/powermock/powermock/wiki/Mockito#using-powermock-with-mockito){:target="_blank"}|
 
 ### Testcontainers
 ¿Testear sin tener que levantar nuestra bd?¿Hacer peticiones a otro servicio sin necesidad de tenerlo accesible?
