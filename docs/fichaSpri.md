@@ -1,3 +1,5 @@
+## Ficha de la formación
+
 Cliente-servidor, MVC, arquitecturas hexagonales, aplicaciones monolíticas, microservicios, DDD… el desarrollo de software está en continua evolución. Desde nuevas arquitecturas anuevas metodologías pasando por diferentes lenguajes de programación y librerías. Como parte de esta evolución, los tests entraron a formar parte de nuestra vida y están cada vez más integrados en el desarrollo, como medio para asegurar un producto (y un código) de calidad.
 En nuestra profesión intentamos estar siempre a la última, pero, ¿nos preocupamos también de estar al día de todas las novedades en cuanto a testing? ¿Sabemos qué nuevas herramientas, librerías o metodologías pueden ayudarnos en nuestro día a día? ¿Os suenan TestContainers, Contract Testing o Mutation Testing?
 
